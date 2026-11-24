@@ -1,0 +1,7 @@
+SYNTHETIC DEMO TEXT (written for this project, not from a real textbook).
+
+Asthma. Asthma is a chronic disease of the airways in which they become inflamed and narrow, causing wheeze, cough, chest tightness and breathlessness, often worse at night or with exercise. A short-acting beta-2 agonist inhaler such as salbutamol relieves attacks quickly. Inhaled corticosteroids are the main preventer medicine because they reduce airway inflammation. Peak flow measurement and spirometry help in diagnosis and monitoring.
+
+Pneumonia. Pneumonia is an infection of the lung tissue. Patients have fever, cough with sputum, chest pain on breathing and shortness of breath. A chest X-ray usually shows a patch of consolidation. Bacterial pneumonia is treated with antibiotics such as amoxicillin, and severe cases need hospital care and oxygen.
+
+Tuberculosis. Tuberculosis is caused by Mycobacterium tuberculosis and mainly affects the lungs. Typical symptoms are a cough lasting more than three weeks, night sweats, fever and weight loss. Standard treatment combines four drugs, isoniazid, rifampicin, pyrazinamide and ethambutol, for the first two months, followed by a longer continuation phase.

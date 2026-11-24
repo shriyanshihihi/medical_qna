@@ -1,0 +1,5 @@
+SYNTHETIC DEMO TEXT (written for this project, not from a real textbook).
+
+Type 2 diabetes mellitus. Type 2 diabetes is a chronic condition in which the body becomes resistant to insulin and the pancreas gradually produces less of it. Common symptoms are increased thirst, frequent urination, tiredness and blurred vision. Metformin is the usual first-line drug for type 2 diabetes because it lowers liver glucose production, rarely causes low blood sugar and is inexpensive. Lifestyle change with diet and exercise is advised for every patient. The HbA1c blood test reflects average blood sugar over about three months.
+
+Hypothyroidism. Hypothyroidism occurs when the thyroid gland makes too little thyroid hormone. Patients may feel tired, gain weight, feel cold and have dry skin and constipation. The blood test shows a high TSH and a low free T4. Treatment is lifelong levothyroxine taken once daily on an empty stomach.

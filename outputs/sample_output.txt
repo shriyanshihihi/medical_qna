@@ -1,0 +1,29 @@
+[embeddings] sentence-transformers unavailable (ModuleNotFoundError); using offline LSA fallback.
+Built index: 6 documents -> 26 chunks | embedding backend = lsa
+[embeddings] sentence-transformers unavailable (ModuleNotFoundError); using offline LSA fallback.
+
+Q: What is the first-line drug for type 2 diabetes?
+
+ANSWER: Metformin is the usual first-line drug for type 2 diabetes because it lowers liver glucose production, rarely causes low blood sugar and is inexpensive. Type 2 diabetes is a chronic condition in which the body becomes resistant to insulin and the pancreas gradually produces less of it.
+
+  [cos=0.781] (textbook_endocrinology #7) Metformin is the usual first-line drug for type 2 diabetes because it lowers liver glucose...
+  [cos=0.672] (textbook_endocrinology #6) Type 2 diabetes mellitus. Type 2 diabetes is a chronic condition in which the body becomes...
+  [cos=0.160] (textbook_cardiology #1) Hypertension. Hypertension means persistently raised blood pressure, usually 140/90 mmHg o...
+
+  retrieval 0.7 ms | generation 0.2 ms
+
+Q: What are the symptoms of iron deficiency anemia?
+
+ANSWER: Iron deficiency anemia is the commonest type of anemia worldwide. Vitamin B12 deficiency causes megaloblastic anemia with large red cells.
+
+  [cos=0.943] (textbook_haematology #14) Iron deficiency anemia. Iron deficiency anemia is the commonest type of anemia worldwide. ...
+  [cos=0.466] (textbook_haematology #16) Vitamin B12 deficiency. Vitamin B12 deficiency causes megaloblastic anemia with large red ...
+  [cos=0.217] (textbook_haematology #15) Blood tests show low hemoglobin, small red cells and low ferritin. Treatment is oral iron ...
+
+  retrieval 0.6 ms | generation 0.1 ms
+[embeddings] sentence-transformers unavailable (ModuleNotFoundError); using offline LSA fallback.
+
+(GPT-3.5 comparison skipped: ModuleNotFoundError: No module named 'openai')
+
+EVALUATION on sample_questions.json (toy synthetic set, NOT a benchmark):
+   {'generator': 'extractive-local', 'n': 12, 'rougeL_mean': 0.338, 'latency_ms_mean': 0.56, 'retrieval_hit_at_k': 1.0}

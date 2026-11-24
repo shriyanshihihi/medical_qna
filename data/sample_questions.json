@@ -1,0 +1,74 @@
+[
+ {
+  "question": "What is the first-line drug for type 2 diabetes?",
+  "reference": "Metformin is the usual first-line drug for type 2 diabetes because it lowers liver glucose production, rarely causes low blood sugar and is inexpensive.",
+  "source": "textbook_endocrinology",
+  "_note": "SYNTHETIC demo question/reference written for this project"
+ },
+ {
+  "question": "How is hypothyroidism treated?",
+  "reference": "Treatment is lifelong levothyroxine taken once daily on an empty stomach.",
+  "source": "textbook_endocrinology",
+  "_note": "SYNTHETIC demo question/reference written for this project"
+ },
+ {
+  "question": "What are the symptoms of iron deficiency anemia?",
+  "reference": "Symptoms include fatigue, pale skin, shortness of breath on effort, headache and brittle nails.",
+  "source": "textbook_haematology",
+  "_note": "SYNTHETIC demo question/reference written for this project"
+ },
+ {
+  "question": "Which drugs are used to treat hypertension?",
+  "reference": "First-line medicines include ACE inhibitors, angiotensin receptor blockers, calcium channel blockers and thiazide diuretics.",
+  "source": "textbook_cardiology",
+  "_note": "SYNTHETIC demo question/reference written for this project"
+ },
+ {
+  "question": "What tests confirm a heart attack?",
+  "reference": "An ECG and a blood test for troponin help confirm the diagnosis.",
+  "source": "textbook_cardiology",
+  "_note": "SYNTHETIC demo question/reference written for this project"
+ },
+ {
+  "question": "Which inhaler relieves an asthma attack quickly?",
+  "reference": "A short-acting beta-2 agonist inhaler such as salbutamol relieves attacks quickly.",
+  "source": "textbook_respiratory",
+  "_note": "SYNTHETIC demo question/reference written for this project"
+ },
+ {
+  "question": "Which drugs are used in tuberculosis treatment?",
+  "reference": "Standard treatment combines isoniazid, rifampicin, pyrazinamide and ethambutol for the first two months.",
+  "source": "textbook_respiratory",
+  "_note": "SYNTHETIC demo question/reference written for this project"
+ },
+ {
+  "question": "What does FAST stand for in stroke?",
+  "reference": "Sudden facial droop, arm weakness and speech difficulty are warning signs summarised by the FAST rule.",
+  "source": "textbook_neurology",
+  "_note": "SYNTHETIC demo question/reference written for this project"
+ },
+ {
+  "question": "What causes vitamin B12 deficiency?",
+  "reference": "Causes include pernicious anemia, a strict vegan diet and poor absorption.",
+  "source": "textbook_haematology",
+  "_note": "SYNTHETIC demo question/reference written for this project"
+ },
+ {
+  "question": "Which medicine reduces stomach acid in reflux disease?",
+  "reference": "Proton pump inhibitors such as omeprazole reduce acid production and are the main medicines.",
+  "source": "textbook_gastroenterology_urology",
+  "_note": "SYNTHETIC demo question/reference written for this project"
+ },
+ {
+  "question": "Which bacteria usually cause urinary tract infection?",
+  "reference": "A urinary tract infection is usually caused by Escherichia coli bacteria entering the urethra.",
+  "source": "textbook_gastroenterology_urology",
+  "_note": "SYNTHETIC demo question/reference written for this project"
+ },
+ {
+  "question": "How is migraine prevented?",
+  "reference": "Preventive treatment may include propranolol or topiramate for frequent attacks.",
+  "source": "textbook_neurology",
+  "_note": "SYNTHETIC demo question/reference written for this project"
+ }
+]

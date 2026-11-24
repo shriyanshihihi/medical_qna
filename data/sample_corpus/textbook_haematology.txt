@@ -1,0 +1,5 @@
+SYNTHETIC DEMO TEXT (written for this project, not from a real textbook).
+
+Iron deficiency anemia. Iron deficiency anemia is the commonest type of anemia worldwide. It develops when the body lacks enough iron to make hemoglobin, often because of blood loss, poor diet or increased needs in pregnancy. Symptoms include fatigue, pale skin, shortness of breath on effort, headache and brittle nails. Blood tests show low hemoglobin, small red cells and low ferritin. Treatment is oral iron supplements and treating the cause of blood loss.
+
+Vitamin B12 deficiency. Vitamin B12 deficiency causes megaloblastic anemia with large red cells. It can also damage nerves, causing tingling in the hands and feet. Causes include pernicious anemia, a strict vegan diet and poor absorption. Treatment is vitamin B12 injections or high-dose tablets.

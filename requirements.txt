@@ -1,0 +1,11 @@
+# Core (needed for the offline demo)
+numpy
+scikit-learn
+faiss-cpu
+langchain-text-splitters
+rouge-score
+matplotlib
+# For the real models named in the CV (needs internet on first run to download weights)
+sentence-transformers
+# Optional: only if you want the GPT-3.5 comparison
+openai

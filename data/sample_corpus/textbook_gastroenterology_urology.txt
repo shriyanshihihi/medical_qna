@@ -1,0 +1,5 @@
+SYNTHETIC DEMO TEXT (written for this project, not from a real textbook).
+
+Gastro-oesophageal reflux disease. Reflux disease occurs when stomach acid flows back into the oesophagus. The main symptoms are heartburn and a sour taste in the mouth, often after meals or when lying down. Lifestyle advice includes avoiding large late meals and losing weight. Proton pump inhibitors such as omeprazole reduce acid production and are the main medicines.
+
+Urinary tract infection. A urinary tract infection is usually caused by Escherichia coli bacteria entering the urethra. Symptoms are burning pain on passing urine, frequent urination and lower abdominal discomfort. A urine dipstick and culture support the diagnosis. Uncomplicated cases are treated with a short course of antibiotics such as nitrofurantoin, and patients are advised to drink plenty of fluids.

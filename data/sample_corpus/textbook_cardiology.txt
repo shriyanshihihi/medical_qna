@@ -1,0 +1,5 @@
+SYNTHETIC DEMO TEXT (written for this project, not from a real textbook).
+
+Hypertension. Hypertension means persistently raised blood pressure, usually 140/90 mmHg or higher in the clinic. It often has no symptoms, so it is called a silent condition. Untreated hypertension raises the risk of stroke, heart attack and kidney disease. First-line medicines include ACE inhibitors, angiotensin receptor blockers, calcium channel blockers and thiazide diuretics. Reducing salt intake and regular exercise also lower blood pressure.
+
+Myocardial infarction. A myocardial infarction, or heart attack, happens when a coronary artery is blocked and part of the heart muscle is starved of oxygen. The typical symptom is crushing chest pain that may spread to the left arm or jaw, with sweating and breathlessness. An ECG and a blood test for troponin help confirm the diagnosis. Emergency treatment includes aspirin, and opening the blocked artery by angioplasty or clot-dissolving drugs.
